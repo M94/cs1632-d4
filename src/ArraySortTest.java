@@ -2,6 +2,8 @@
  * Austin Choi
  * CS1632 Deliverable 4
  * Java Array Sort Test [PROPERTY-BASED TESTING]
+ * This program checks four different properties of the Arrays.sort() method.
+ * The jUnit and QuickCheck libraries are referenced.
  */
 
 import static org.junit.Assert.*;
